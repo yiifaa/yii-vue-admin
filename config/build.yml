@@ -1,0 +1,4 @@
+#   build info
+build:
+  dist:  ./dist
+  src:   ./es6
